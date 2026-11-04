@@ -1,5 +1,7 @@
 import json
 
+import graphics
+
 
 def read(info):
     with open(info, "r") as file:  
@@ -7,7 +9,7 @@ def read(info):
     return data
 
 def main():
-    pass
+    graphics.draw_layers()
 
 if __name__ == "__main__":
     main()
