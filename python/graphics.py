@@ -6,7 +6,7 @@ layers = [("Application", 7),
           ("Data link", 2), 
           ("Physical", 1)]
 
-name_width = max(len(layer[0]) for layer in layers) + 2 
+name_width = max(len(layer[0]) for layer in layers)
 number_width = 3
 
 def draw_layers():
