@@ -1,0 +1,34 @@
+{
+  "number": 1,
+  "name": "-",
+  "pdu": "-",
+  "summary": "-",
+  "main": [
+    "-"
+  ],
+  "protocols": [],
+  "devices": [
+    "-"
+  ],
+  "tools": [
+    "-"
+  ],
+  "troubleshooting": [
+    "-"
+  ],
+  "security": [
+    "-"
+  ],
+  "examples": [
+    {
+      "title": "-",
+      "text": "-"
+    }
+  ],
+  "further_reading": [
+    {
+      "title": "-",
+      "url": "-"
+    }
+  ]
+}
