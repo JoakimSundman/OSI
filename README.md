@@ -1,7 +1,9 @@
 # OSI
 Network OSI model program
 
-A basic program for studying the OSI network model 
+A basic program for studying the OSI network model.
+
+The explanations and some examples for the layers are from: https://www.youtube.com/@LearnCantrill
 
 Input: OSI layer 1-7. Follow-up is protocols like TCP and UDP. 
 
