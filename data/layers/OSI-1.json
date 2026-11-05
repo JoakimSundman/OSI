@@ -3,9 +3,9 @@
   "name": "-",
   "pdu": "-",
   "summary": "-",
-  "main": [
+  "main": 
     "-"
-  ],
+  ,
   "protocols": [],
   "devices": [
     "-"
